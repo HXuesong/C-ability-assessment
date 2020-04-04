@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557231485 source:c:\users\韩雪松\desktop\c语言范例\字符和字符串操作\找出相同字符构成的最长字符串\main.c
+	<stdio.h>
+	<string.h>
+

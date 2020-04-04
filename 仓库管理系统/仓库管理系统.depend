@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557243614 source:c:\users\韩雪松\desktop\c语言范例\字符和字符串操作\仓库管理系统\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

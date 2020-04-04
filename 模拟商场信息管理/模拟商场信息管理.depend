@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557237929 source:c:\users\韩雪松\desktop\c语言范例\字符和字符串操作\模拟商场信息管理\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

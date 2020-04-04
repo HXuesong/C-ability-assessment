@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557230511 source:c:\users\韩雪松\desktop\c语言范例\字符和字符串操作\字符串的重新排序：将相同字符串进行连续排序\main.c
+	<stdio.h>
+	<string.h>
+
